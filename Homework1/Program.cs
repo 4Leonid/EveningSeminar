@@ -20,7 +20,6 @@ Console.Write("Input a third number: ");
 int number3 = Convert.ToInt32(Console.ReadLine());
 int max = 0;
 
-
 if(number1 > number2)
     max = number1;
     else 
@@ -29,8 +28,7 @@ if (number3 > max)
 Console.WriteLine($"Max number is {number3}");
 else
 Console.WriteLine($"Max number is{max}");
- */
-/*
+ 
 // Задача 3. Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным.
     Console.Write("Input number: ");
 int number = Convert.ToInt32(Console.ReadLine());
