@@ -1,0 +1,15 @@
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/Homework1.csproj.AssemblyReference.cache
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/Homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/Homework1.AssemblyInfoInputs.cache
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/Homework1.AssemblyInfo.cs
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/Homework1.csproj.CoreCompileInputs.cache
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/bin/Debug/net6.0/Homework1
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/bin/Debug/net6.0/Homework1.deps.json
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/bin/Debug/net6.0/Homework1.runtimeconfig.json
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/bin/Debug/net6.0/Homework1.dll
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/bin/Debug/net6.0/Homework1.pdb
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/Homework1.dll
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/refint/Homework1.dll
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/Homework1.pdb
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/Homework1.genruntimeconfig.cache
+/Users/4leo/Desktop/C#/EveningSeminar/Homework1/obj/Debug/net6.0/ref/Homework1.dll
