@@ -6,10 +6,7 @@
 
 int FindSecond(int num)
 {
-    int firstItaration = num / 10;
-    int result = firstItaration % 10;
-
-    return result;   
+  return num / 10 % 10;   
 }
 
 Console.Write($"Inter you number: ");
@@ -71,3 +68,4 @@ Console.Write($"Inter you week day: ");
 int weekDay = Convert.ToInt32(Console.ReadLine());
 
 WeekDay(weekDay);
+
