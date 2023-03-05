@@ -4,7 +4,7 @@
 14212 -> нет
 12821 -> да
 23432 -> да
-*/
+
 Console.Write("Введите пятизначное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
@@ -13,6 +13,28 @@ void IsPolindrom(int number)
     bool firstCheck = number / 10000 == number % 10;
     bool secondCheck = number / 1000 % 10 == (number % 100) / 10;
     if (firstCheck == secondCheck)
+    Console.WriteLine($"{number} is polindrom");   
+    else
+    Console.WriteLine($"{number} is not polindrom"); 
+}
+
+IsPolindrom(number);
+*/
+
+
+Console.Write("Введите пятизначное число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+void IsPolindrom(int number)
+{
+    string num = Convert.ToString(number);
+    int length = num.Length;
+    if (length < 5 || length > 5)
+    {
+        Console.WriteLine("Введите 5 значное число, это число не подходит");
+        return;
+    }
+    if (num[0] == num[length - 1] && num[1] == num[length - 2])
     Console.WriteLine($"{number} is polindrom");   
     else
     Console.WriteLine($"{number} is not polindrom"); 
