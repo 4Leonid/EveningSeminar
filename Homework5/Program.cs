@@ -91,13 +91,13 @@ double[] FillArrayWhithRandomDouble(int size)
 
 System.Console.Write("Введите длину массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
-double[] array = FillArrayWhithRandomNumber(size);
+double[] array = FillArrayWhithRandomDouble(size);
 
 
 double min = array.Min();
 double max = array.Max();
 
-double result = max = min;
+double result = max - min;
 
 System.Console.Write("Ваш случайный массив: ");
 System.Console.WriteLine($"[{string.Join(", ", array)}]");
