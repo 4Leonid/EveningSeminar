@@ -83,8 +83,8 @@ double[] FillArrayWhithRandomDouble(int size)
     Random rnd = new Random();
     for(int i = 0; i < arr.Length; i++)
     {
-        double num = rnd.Next(0, 100);
-        arr[i] = num / 2;
+        double num = rnd.NextDouble() + rnd.Next(0, 100);
+        arr[i] = Math.Round(num, 2);
     }
     return arr;
 }
