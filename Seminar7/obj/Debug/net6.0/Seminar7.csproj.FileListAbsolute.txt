@@ -1,0 +1,15 @@
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/bin/Debug/net6.0/Seminar7
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/bin/Debug/net6.0/Seminar7.deps.json
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/bin/Debug/net6.0/Seminar7.runtimeconfig.json
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/bin/Debug/net6.0/Seminar7.dll
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/bin/Debug/net6.0/Seminar7.pdb
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/Seminar7.csproj.AssemblyReference.cache
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/Seminar7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/Seminar7.AssemblyInfoInputs.cache
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/Seminar7.AssemblyInfo.cs
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/Seminar7.csproj.CoreCompileInputs.cache
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/Seminar7.dll
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/refint/Seminar7.dll
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/Seminar7.pdb
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/Seminar7.genruntimeconfig.cache
+/Users/4leo/Desktop/C#/EveningSeminar/Seminar7/obj/Debug/net6.0/ref/Seminar7.dll
